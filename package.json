@@ -1,0 +1,19 @@
+{
+  "name": "ford",
+  "version": "1.0.0",
+  "description": "Group project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besartbytyqi/ford.git"
+  },
+  "author": "Besart Bytyqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/besartbytyqi/ford/issues"
+  },
+  "homepage": "https://github.com/besartbytyqi/ford#readme"
+}
