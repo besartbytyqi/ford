@@ -2,10 +2,6 @@
   "name": "ford",
   "version": "1.0.0",
   "description": "Group project 1",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/besartbytyqi/ford.git"
@@ -15,5 +11,10 @@
   "bugs": {
     "url": "https://github.com/besartbytyqi/ford/issues"
   },
-  "homepage": "https://github.com/besartbytyqi/ford#readme"
+  "homepage": "https://github.com/besartbytyqi/ford#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-watch": "^4.3.3"
+  }
 }
